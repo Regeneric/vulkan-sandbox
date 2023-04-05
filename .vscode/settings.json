@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.rh": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "iostream": "cpp"
+    }
+}
